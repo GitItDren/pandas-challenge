@@ -1,0 +1,9 @@
+Analysis:
+
+Seeing the Data and various points I can conlcude just based on what I have that well off schools to have worse turn out for both Overall Passing and Individual Scores for Math and Reading. The Charter schools stand out the most even though they do not have the highest funding they put out students who are higher academic achievers.
+
+Even some of the lowest funded schools aka Hernandez & Pena High Schools, have some of the highest overall passing students. This could be do to a variety of othings. Less funded schools may not invest in more intense education or the higher end schools are too heavy-handed or too intense for their students to have higher passing rates.
+
+The lower funded schools have higher passing while the higher funded schools have relatively low passing in their subjects of Math and Reading. I conlcude this is due to the diffeerence of material available. A more funded school could buy the latest science books while one not so funded woudl have to rely on older, less intensitve books or materials for the students. 
+
+**Also, I could NOT figure out those last two bits for this pandas challenge it had me stumped but I'll put this out there and come back to another day:**
